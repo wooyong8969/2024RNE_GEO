@@ -35,8 +35,8 @@
 - Canny Edge Detection과 Contour Tracing 알고리즘을 이용하여 등고선 경계를 추출하였습니다.
 - Inpainting 기법을 통해 불연속 등고선을 보완하였습니다.
 - OCR을 통해 얻은 고도값과 등고선 경계를 Bipartite Matching 알고리즘을 통해 매칭하였습니다.
+  ![image](https://github.com/user-attachments/assets/9031d148-482f-48b7-b640-e16b7d8794f0)
 
-  ![image](https://github.com/user-attachments/assets/48edaa18-5e08-4d3b-8cab-080788ba98a5)
   ![image](https://github.com/user-attachments/assets/bd1af4ac-59bb-40b4-9c6d-64c9f83a672e)
 
 
